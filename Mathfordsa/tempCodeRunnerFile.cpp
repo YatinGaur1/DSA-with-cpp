@@ -1,0 +1,1 @@
+ cout<<"your anwer  without modular is "<<fastExponentiation(a,
